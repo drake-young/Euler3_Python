@@ -10,7 +10,7 @@
 from timeit import default_timer
 
 # ===========================================================
-# FUNCTION: getLargestPrimeFactor
+# FUNCTION: get_largest_prime_factor
 # ===========================================================
 #
 #  Input: integer n to find the largest prime factor of
